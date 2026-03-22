@@ -1,4 +1,4 @@
-# 🎫 AI Ticket Triage Agent
+# 🎫 AI ticket triage agent
 
 Automatically classifies, prioritizes, and drafts replies for customer support tickets using a multi-agent AI pipeline.
 
@@ -16,6 +16,6 @@ Automatically classifies, prioritizes, and drafts replies for customer support t
 
 ## Run locally
 git clone https://github.com/vishu389/Ticket-Triage-Agent
-cd Ticket-Triage-Agent
+cd ticket-triage-agent
 pip install -r requirements.txt
 streamlit run app.py
