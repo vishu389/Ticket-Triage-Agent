@@ -19,3 +19,7 @@ git clone https://github.com/vishu389/ticket-triage-agent
 cd ticket-triage-agent
 pip install -r requirements.txt
 streamlit run app.py
+
+## Demo
+
+https://github.com/vishu389/Ticket-Triage-Agent/blob/main/Screen%20Recording%202026-03-22%20155734.mp4
