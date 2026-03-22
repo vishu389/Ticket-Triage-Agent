@@ -15,7 +15,7 @@ Automatically classifies, prioritizes, and drafts replies for customer support t
 - Streamlit — web UI
 
 ## Run locally
-git clone https://github.com/vishu389/Ticket-Triage-Agent
+git clone https://github.com/vishu389/ticket-triage-agent
 cd ticket-triage-agent
 pip install -r requirements.txt
 streamlit run app.py
